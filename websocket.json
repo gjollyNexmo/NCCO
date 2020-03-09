@@ -1,15 +1,5 @@
 [{
   "action": "connect",
-  "eventUrl": ["https://endb78g55icl7.x.pipedream.net/"],
-  "from": "447418341617",
-  "endpoint": [
-    {
-      "type": "phone",
-      "number": "447593765732"
-    }
-  ]
-},{
-  "action": "connect",
   "from": "447418341617",
   "eventUrl": ["https://endb78g55icl7.x.pipedream.net/"],
   "endpoint": [
