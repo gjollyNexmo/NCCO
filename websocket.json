@@ -5,7 +5,7 @@
   "endpoint": [
     {
       "type": "websocket",
-      "uri": "http://dfe9e2b7.ngrok.io/socket",
+      "uri": "https://dfe9e2b7.ngrok.io/socket",
       "content-type": "audio/l16;rate=16000"
     }
   ]
